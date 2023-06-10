@@ -18,7 +18,9 @@ body {
   align-items: center;
   flex-direction: column; 
 }
-
+.dice-container {
+	
+}
 .dice {
   text-align: center;
   display: inline-block;
